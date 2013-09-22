@@ -83,3 +83,7 @@ C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\bi
 C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\obj\Debug\WebApiClient.csprojResolveAssemblyReference.cache
 C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\obj\Debug\WebApiClient.dll
 C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\obj\Debug\WebApiClient.pdb
+C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\bin\Mono.Math.dll
+C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Dilan\Documents\Visual Studio 2012\Projects\WebApi13091\WebApiClient\bin\Mono.Math.xml
